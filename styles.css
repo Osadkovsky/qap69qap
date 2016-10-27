@@ -5,14 +5,8 @@
     width: 1024px;
     height: 768px;
     text-align: center;
+ }
 
-@media (min-width: 335px) {
-  }
-@media (max-width: 1024px) {
-  
-}
-
-}
 .header{
 	width: 100%;
 	background-color: #ffffff;
@@ -50,6 +44,7 @@
 }
 .ul{
 	display: inline-block;
+	position: relative;
 	box-sizing: border-box;
 	height: 580px;
 	border: 1px solid;
